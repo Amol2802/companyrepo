@@ -6,6 +6,8 @@ public class Department {
 		System.out.println("Testing Department");
 		System.out.println("HR Department");
 		System.out.println("Development Department");
+                System.out.println("IT Department");
+		
 	}
 
 }
